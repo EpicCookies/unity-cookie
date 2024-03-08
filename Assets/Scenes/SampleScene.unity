@@ -322,7 +322,7 @@ GameObject:
   - component: {fileID: 1803888129}
   - component: {fileID: 1803888128}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: SanjaCUbe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
